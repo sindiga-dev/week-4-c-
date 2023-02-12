@@ -1,0 +1,15 @@
+/home/isaac/Development/code/c#/week-4/bin/Debug/net7.0/week-4
+/home/isaac/Development/code/c#/week-4/bin/Debug/net7.0/week-4.deps.json
+/home/isaac/Development/code/c#/week-4/bin/Debug/net7.0/week-4.runtimeconfig.json
+/home/isaac/Development/code/c#/week-4/bin/Debug/net7.0/week-4.dll
+/home/isaac/Development/code/c#/week-4/bin/Debug/net7.0/week-4.pdb
+/home/isaac/Development/code/c#/week-4/obj/Debug/net7.0/week-4.csproj.AssemblyReference.cache
+/home/isaac/Development/code/c#/week-4/obj/Debug/net7.0/week-4.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaac/Development/code/c#/week-4/obj/Debug/net7.0/week-4.AssemblyInfoInputs.cache
+/home/isaac/Development/code/c#/week-4/obj/Debug/net7.0/week-4.AssemblyInfo.cs
+/home/isaac/Development/code/c#/week-4/obj/Debug/net7.0/week-4.csproj.CoreCompileInputs.cache
+/home/isaac/Development/code/c#/week-4/obj/Debug/net7.0/week-4.dll
+/home/isaac/Development/code/c#/week-4/obj/Debug/net7.0/refint/week-4.dll
+/home/isaac/Development/code/c#/week-4/obj/Debug/net7.0/week-4.pdb
+/home/isaac/Development/code/c#/week-4/obj/Debug/net7.0/week-4.genruntimeconfig.cache
+/home/isaac/Development/code/c#/week-4/obj/Debug/net7.0/ref/week-4.dll
